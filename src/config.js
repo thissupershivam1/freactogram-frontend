@@ -1,0 +1,1 @@
+export const API_BASE_URL = "https://reactogram-backend-gh73.onrender.com/";
