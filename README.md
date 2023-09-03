@@ -3,6 +3,16 @@
 #SignUp Page 
 ![Alt Text](https://github.com/thissupershivam1/freactogram-frontend/blob/main/Screenshot%20(73).png)
 
+Login Page
+
+![login Page](https://github.com/thissupershivam1/freactogram-frontend/blob/main/Screenshot%20(72).png)
+
+My Profile Page
+![profile page](https://github.com/thissupershivam1/freactogram-frontend/blob/main/Screenshot%20(71).png)
+
+Post Page 
+![Post](https://github.com/thissupershivam1/freactogram-frontend/blob/main/Screenshot%20(70).png)
+
 
 # Getting Started with Create React App
 
